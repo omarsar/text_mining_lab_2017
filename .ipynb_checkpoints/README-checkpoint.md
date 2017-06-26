@@ -53,4 +53,6 @@ from nltk.corpus import stopwords
 If you have any further questions please feel free to contact me at ellfae@gmail.com
 
 Have Fun,
-Text Mining TA
+
+Elvis 
+Text Mining TA ()
