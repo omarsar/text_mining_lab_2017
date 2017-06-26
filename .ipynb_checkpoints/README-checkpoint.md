@@ -25,7 +25,7 @@ Here is the list of packages needed for our Text Mining Lab Session scheduled fo
 
 #### Test:
 -------------------
-Once you have installed all the necessary packages, you can test to see if everything is working by running the following code:
+Once you have installed all the necessary packages, you can test to see if everything is working by running the following python code:
 
 ```python
 import logging
