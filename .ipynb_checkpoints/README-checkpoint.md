@@ -54,5 +54,4 @@ If you have any further questions please feel free to contact me at ellfae@gmail
 
 Have Fun,
 
-Elvis 
-Text Mining TA ()
+Elvis Saravia (Text Mining TA)
