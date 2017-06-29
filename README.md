@@ -4,12 +4,11 @@ Here is the list of packages needed for our Text Mining Lab Session scheduled fo
 
 #### Updates:
 ------------------
-* I have uploaded some poster examples of some past students
-* For the guys intereted in the slack community, send me your email to ellfae@gmail and I will provide an invite
-* If you have any other questions or technical problems, feel free to stop by Idea Lab Delta 701. I will be more than happy to support you. 
+* I have uploaded some poster examples of some past students. (Check the `posters` folder)
+* For the guys intereted in the slack community, send me your email to `ellfae@gmail` and I will provide an invite
+* If you have any other questions or technical problems, feel free to stop by Idea Lab Delta 701. I will be more than happy to assist. 
 * I may extend the python notebook based on the excellent questions you guys asked (e.g., more statistics, visuals, etc.)
 * Lastly, good luck and enjoy your stay here. 
-
 
 #### Software:
 ------------------
